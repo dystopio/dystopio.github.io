@@ -1,0 +1,23 @@
+{
+  "name": "dystopio",
+  "version": "1.0.0",
+  "description": "The Future is Now",
+  "main": "index.html",
+  "dependencies": {
+    "bootstrap": "^4.0.0-alpha.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "q"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dystopio/dystopio.github.io.git"
+  },
+  "author": "earth2travis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dystopio/dystopio.github.io/issues"
+  },
+  "homepage": "https://github.com/dystopio/dystopio.github.io#readme"
+}
